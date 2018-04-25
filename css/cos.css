@@ -42,6 +42,16 @@ q:before, q:after {
     content: '';
     content: none;
 }
+
+hr.type_1 {
+border: 0;
+height: 55px;
+background-image: url(type1.png);
+background-repeat: no-repeat;
+        position: relative;
+        width: 768px;
+        margin: auto;
+}
  
 /* remember to highlight inserts somehow! */
 ins {
